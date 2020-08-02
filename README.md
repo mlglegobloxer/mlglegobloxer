@@ -1,6 +1,6 @@
 ### Hi, im George 👋
 
-Im an aspiring data scientist 🤔 📈 / ML engineer ⚙️
+Im an aspiring ML engineer ⚙️  🤔 
 
 Some of my favorite resources include:
 
